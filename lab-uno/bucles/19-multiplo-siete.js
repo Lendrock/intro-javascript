@@ -3,7 +3,7 @@
  */
 
 function multiploDeSiete() {
-  const inicio = 50;
+  const inicio = 1;
   const fin = 100;
   const multiplo = 7;
 
